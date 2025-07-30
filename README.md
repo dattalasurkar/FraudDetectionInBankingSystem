@@ -1,6 +1,6 @@
 # FraudDetectionInBankingSystem
 
-Use Case: A banking system that analyzes transactions and sends alerts for suspicious activity to multiple departments (e.g., fraud detection, compliance, customer support).
+Use Case: A banking system that analyzes transactions and sends alerts for suspicious activity to multiple departments (e.g., fraud detection, compliance, customer support).\n
 How Topics Help:
 Publish transaction data to a topic.
 Subscribers filter messages based on fraud detection rules:
